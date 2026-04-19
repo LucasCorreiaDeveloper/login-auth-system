@@ -4,9 +4,11 @@ Este projeto é um sistema de autenticação de usuários com interface web, des
 
 O objetivo é praticar conceitos de estruturação de interfaces e validação de formulários.
 
+(![Preview do sistema](./assets/Login-Web.gif))
+
 ## 📷 Preview
 
-![Tela do sistema](<img width="800" height="450" alt="Login-Web" src="https://github.com/user-attachments/assets/abc94229-4b57-47f1-add1-fcd84e8f1a2c" />)
+![Tela do sistema]
 
 🚀 Funcionalidades
 - Tela de login
